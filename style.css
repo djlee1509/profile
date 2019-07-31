@@ -1,0 +1,54 @@
+h2 {
+  font-family: 'Lacquer';
+  font-weight: 200;
+  color: #393e46;
+}
+
+p, a, h1 {
+  font-family: 'Roboto Mono';
+  font-weight: 500;
+}
+
+i:hover {
+  text-decoration: none;
+  color: #3f72af;
+}
+
+.avatar {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+img {
+  border: 3px solid #393e46;
+}
+
+.container {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.card {
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  padding: 20px;
+}
+
+.list-inline li {
+  list-style: none;
+  padding-left: 0px;
+  display: inline-block;
+  font-size: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
+  text-align: center;
+}
+
+p {
+  margin: 50px 25px 50px 25px;
+}
+
+body {
+  text-align: center;
+}
