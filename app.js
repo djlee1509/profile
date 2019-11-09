@@ -3,4 +3,6 @@ new fullpage('#fullpage', {
   navigation: true,
   anchors: ['About', 'Projects', 'Contact'],
   verticalCentered: false,
-})
+  navigationTooltips: ['About', 'Projects', 'Contact'],
+  showActiveTooltip: true
+});
