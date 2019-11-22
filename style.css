@@ -108,3 +108,7 @@ body {
   body {
     text-align: center;
   }
+
+  #fp-nav ul li .fp-tooltip {
+    color: black;
+  }
